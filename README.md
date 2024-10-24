@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ren-JD
+- 👋 Hi, I’m @Jostin De La Cruz
 - 👀 I’m interested in Action games
 - 🌱 I’m currently learning how to use Python                        
 - 💞️ I’m looking to collaborate on ...
